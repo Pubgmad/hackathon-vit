@@ -1,0 +1,14 @@
+langchain 
+langgraph 
+cassio
+langchain_community
+tiktoken
+langchain-groq
+langchainhub
+langchain_huggingface
+python-dotenv
+pandas 
+arxiv
+wikipedia
+IPython
+fastapi
